@@ -147,3 +147,24 @@ header{
     align-items: center;
     margin-left: 250px;
 }
+/* portfolio styles */
+.portfolio{
+    margin-top: 50px;
+}
+.best-gifts{
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+}
+.awesome{
+    font-size: 48px;
+}
+.portfolio-img-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 230px;
+    gap: 10px;
+}
+.portfolio-container{
+    margin-left: 250px;
+}
