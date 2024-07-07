@@ -131,3 +131,19 @@ header{
 .coming-soon-title{
     font-size: 48px;
 }
+/* Holidays styles */
+.functional{
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+}
+.holidays-titles{
+    font-size: 72px;
+}
+.holidays-container{
+    text-align: center;
+    margin: 50px 400px;
+}
+.images-holidays{
+    align-items: center;
+    margin-left: 250px;
+}
