@@ -1,0 +1,133 @@
+
+/* header styles */
+.header-container{
+    width: 1320px;
+    height: 600px;
+    color: white;   
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-left: 177px;
+}
+.header-text-container{
+    text-align: center;
+}
+.header-greeting{
+    font-size: 32px;
+    text-align: center;
+}
+.new-year-title{
+    text-align: center;
+    font-size: 72px;
+}
+header{
+    font-family: "Merriweather", serif;
+}
+/* 60% off categories styles */
+.off{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Inter", sans-serif;
+}
+.offer{
+    font-size: 88px;
+    color: #FF0000;
+}
+.our-deals{
+    font-size: 24px;
+    color: #FF0000;
+}
+.categories{
+    font-size: 48px;
+    color: #070211;
+}
+/* midnight styles */
+.midnight{
+    font-family: "Merriweather", serif;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-top: 50px;
+}
+.midnight-container{
+    align-items: center;
+    margin-left: 250px;
+}
+.midnight-title{
+    font-size: 64px;
+    color: white;
+}
+.midnight-title-description{
+    font-size: 18px;
+    color: white;
+    opacity: .8;
+}
+.year-24{
+    margin-right: 250px;
+    width: 320px;
+    height: auto;
+}
+.btn-midnight{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+/* park hotel styles */
+.park-hotel{
+
+}
+.park-hotel-container{
+    background-color: rgb(255,211,211);
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 32px; 
+    padding: 50px;
+    margin-left: 290px;
+    margin-right: 280px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.information{
+    opacity: 100%;
+}
+.only-red{
+    color: #FF0000;
+}
+.btn-new-park{
+    font-size: 20px ;
+    padding: 5px 10px;
+    background-color: #FF0000;
+    border: none;
+    border-radius: 5px;
+}
+/* coming soon styles */
+.coming-soon{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 280px;
+    margin-right: 280px;
+    margin-top: 50px;
+    gap: 50px;
+}
+.img-circle{
+    border: #FF0000 20px solid;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+.coming-soon-description{
+    color: #070211;
+    font-size: 20px;
+    opacity: .6;
+}
+.new-better-offer{
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+}
+.coming-soon-title{
+    font-size: 48px;
+}
